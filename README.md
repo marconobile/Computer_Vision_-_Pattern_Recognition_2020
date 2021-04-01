@@ -7,4 +7,6 @@ Assignment 1: Single/Multi View Geometry, example results:<br/>
 
 <br/>
 Assignment 2: Template matching, example results:<br/>
-[![m-merged.png](https://i.postimg.cc/50x2s7Yt/m-merged.png)](https://postimg.cc/PLRHxMMG)
+<p>
+    <img src="m_merged.png" width="1000" height="400" />
+</p>
